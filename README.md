@@ -1,2 +1,3 @@
-# cue-for-schema-gen
-Experimenting with generating code from Cuelang definitions
+# Cuelang with SchemaGen
+
+Experimenting with schema generating from cuelang
